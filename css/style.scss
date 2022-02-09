@@ -241,7 +241,7 @@ header{
                       background: #EAECEF;
                       font-weight: 600;
                       appearance: none;
-                      background: url(/assets/images/arrowList.svg) no-repeat #EAECEF;
+                      background: url(/images/arrowList.svg) no-repeat #EAECEF;
                       background-position:calc(100% - 1.2rem) 50%;
                       border-radius: 0.5rem;
                       margin-right: 1rem;
@@ -279,7 +279,7 @@ header{
                 }
 
                 input:hover + label:before{
-                    background: url(/assets/images/notChecked.svg) no-repeat;
+                    background: url(/images/notChecked.svg) no-repeat;
                     background-size: 1.8rem 1.2rem;
                     background-position:50% 50% ;
                     position: relative;
@@ -287,7 +287,7 @@ header{
                 }
 
                 input:checked + label:before{
-                    background: url(/assets/images/checked.svg) no-repeat;
+                    background: url(/images/checked.svg) no-repeat;
                     background-size: 1.8rem 1.2rem;
                     background-position:50% 50% ;
                     
@@ -568,7 +568,7 @@ header{
             }
 
             input:hover + label:before{
-                background: url(/assets/images/notChecked.svg) no-repeat;
+                background: url(/images/notChecked.svg) no-repeat;
                 background-size: 1.8rem 1.2rem;
                 background-position:50% 50% ;
                 position: relative;
@@ -576,7 +576,7 @@ header{
             }
 
             input:checked + label:before{
-                background: url(/assets/images/checked.svg) no-repeat;
+                background: url(/images/checked.svg) no-repeat;
                 background-size: 1.8rem 1.2rem;
                 background-position:50% 50% ;
                 
@@ -802,7 +802,7 @@ footer{
             li:before{
                 content: '';
                 display: block;
-                background: url(/assets/images/footerArrow.svg) no-repeat;
+                background: url(/images/footerArrow.svg) no-repeat;
                 width: 1.2rem;
                 height: 1.2rem;
                 margin-right: 1.6rem;
