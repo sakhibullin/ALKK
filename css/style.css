@@ -271,7 +271,7 @@ header .down__menu menu {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background: url(/images/arrowList.svg) no-repeat #EAECEF;
+  background: url(/ALKK/images/arrowList.svg) no-repeat #EAECEF;
   background-position: calc(100% - 1.2rem) 50%;
   border-radius: 0.5rem;
   margin-right: 1rem;
@@ -314,14 +314,14 @@ header .down__menu menu {
   transition: 0.3s;
 }
 .calc .calc__menu .calc__chose .calc__check-box input:hover + label:before {
-  background: url(/images/notChecked.svg) no-repeat;
+  background: url(/ALKK/images/notChecked.svg) no-repeat;
   background-size: 1.8rem 1.2rem;
   background-position: 50% 50%;
   position: relative;
   z-index: 4;
 }
 .calc .calc__menu .calc__chose .calc__check-box input:checked + label:before {
-  background: url(/images/checked.svg) no-repeat;
+  background: url(/ALKK/images/checked.svg) no-repeat;
   background-size: 1.8rem 1.2rem;
   background-position: 50% 50%;
 }
@@ -644,14 +644,14 @@ header .down__menu menu {
   transition: 0.3s;
 }
 .form .form__list .form__block input:hover + label:before {
-  background: url(/images/notChecked.svg) no-repeat;
+  background: url(/ALKK/images/notChecked.svg) no-repeat;
   background-size: 1.8rem 1.2rem;
   background-position: 50% 50%;
   position: relative;
   z-index: 4;
 }
 .form .form__list .form__block input:checked + label:before {
-  background: url(/images/checked.svg) no-repeat;
+  background: url(/ALKK/images/checked.svg) no-repeat;
   background-size: 1.8rem 1.2rem;
   background-position: 50% 50%;
 }
@@ -871,7 +871,7 @@ footer .footer__wrap .footer__ul-list li {
 footer .footer__wrap .footer__ul-list li:before {
   content: "";
   display: block;
-  background: url(/images/footerArrow.svg) no-repeat;
+  background: url(/ALKK/images/footerArrow.svg) no-repeat;
   width: 1.2rem;
   height: 1.2rem;
   margin-right: 1.6rem;
